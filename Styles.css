@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    justify-content: space-around;}
+
+
+    nav a {
+    background-color: aqua;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;}
+
+
+   img{
+       height: 510px;
+
+   }
+   h1{
+       text-align: center;
+   }
+   header{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+main{
+    font-family:Rubik Scribble ;
+}
+
+nav a img{
+    width: 25px;
+    height: 25px;
+}
+   
